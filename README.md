@@ -1,4 +1,4 @@
-![alt text](https://miro.medium.com/max/1400/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg)
+![alt text](https://i.ibb.co/12MkVJT/gitHub1.png)
 
 
 ### Who am I 
