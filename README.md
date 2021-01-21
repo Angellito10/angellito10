@@ -1,3 +1,6 @@
+![alt text](https://miro.medium.com/max/1400/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg)
+
+
 ### Who am I 
 
 Hi, I am specialized in **Networks** and **Cybersecurity**, who is equipped with various skills. I'm willing to provide services in this field. I’m also a qualified **web developer**.
