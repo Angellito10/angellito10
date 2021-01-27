@@ -1,7 +1,7 @@
 ![alt text](https://i.ibb.co/12MkVJT/gitHub1.png)
 
 
-### Who am I 
+### Who am I {❍_❍}
 
 Hi, I am specialized in **Networks** and **Cybersecurity**, who is equipped with various skills. I'm willing to provide services in this field. I’m also a qualified **web developer**.
 
@@ -15,11 +15,18 @@ You can find more details on [my website](https://muathnasr.net/).
 
 - [Youtube](https://www.youtube.com/channel/UCG6JMJinTxjifVd0bX6esDQ) 
 
+### Goal:
+
++ [x] Development of cyber threats and new attack techniques.
++ [x] Analyze malware and assess damage.
++ [x] Provide software security + penetration testing 
++ [x] Develop network security applications.
+
 
 ### Summary 📢
 
-+ [x] Currently working, learning and growing my skillset in Cyber Security. 
-+ [x] Developing network security applications.
-+ [x] Developing web applications.
-+ [x] Analyzing malware and assessing damage.
-+ [x] Open for collaborations in Cyber Security and Network.. 
++ [x] Currently learning, working, and growing my skillset in Cybersecurity. 
++ [x] Open for collaborations in Cyber Security and Network.
+
+
+
