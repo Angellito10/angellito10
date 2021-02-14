@@ -21,7 +21,7 @@ You can find more details on [my website](https://muathnasr.net/).
 + [x] Analyze malware and assess damage.
 + [x] Provide software security + penetration testing 
 + [x] Develop network security applications.
-
++ [x] BLUE TEAM.
 
 ### Summary 📢
 
