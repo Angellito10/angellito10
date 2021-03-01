@@ -11,7 +11,7 @@ You can find more details on [my website](https://muathnasr.net/).
 
 - [LinkedIn](https://www.linkedin.com/in/muath-nasr-bb0795131)
 
-- [Intstgram](https://www.instagram.com/angellito10/) 
+- [Intstgram](https://www.instagram.com/angellito10/) account currently disabled ;
 
 - [Youtube](https://www.youtube.com/channel/UCG6JMJinTxjifVd0bX6esDQ) 
 
