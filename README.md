@@ -9,11 +9,11 @@ You can find more details on [my website](https://muathnasr.net/).
 
 ### Social Accounts 🙌🏼
 
-- [LinkedIn](https://www.linkedin.com/in/muath-nasr-bb0795131)
+- [LinkedIn](https://www.linkedin.com/in/muath-nasr-bb0795131) ;
 
-- [Intstgram](https://www.instagram.com/angellito10/) account currently disabled ;
+- [Intstgram](https://www.instagram.com/angellito10/) ;
 
-- [Youtube](https://www.youtube.com/channel/UCG6JMJinTxjifVd0bX6esDQ) 
+- [Youtube](https://www.youtube.com/channel/UCG6JMJinTxjifVd0bX6esDQ) ;
 
 ### Goal:
 
