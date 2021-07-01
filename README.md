@@ -3,7 +3,8 @@
 
 ### Who am I {❍_❍}
 
-Hi, I am specialized in **Networks** and **Cybersecurity**, who is equipped with various skills. I'm willing to provide services in this field. I’m also a qualified **web developer**.
+
+Junior ***Network security engineer***, specializes in ***blue teaming*** and ***cybersecurity*** with additional experience in ***web development, computer forensics, vulnerability assessment***. also well-versed in security tools, technologies, and best practices.
 
 You can find more details on [my website](https://muathnasr.net/).
 
