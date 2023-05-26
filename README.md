@@ -11,10 +11,13 @@ You can find more details on [my website](https://muathnasr.net/).
 ### Social Accounts 🙌🏼
 
 - [LinkedIn](https://www.linkedin.com/in/muath-nasr-bb0795131) ;
+- [Researgate](https://www.researchgate.net/profile/Muath-Nasr) ;
+- [googlescholar](https://scholar.google.com/citations?user=onPc018AAAAJ&hl) ;
 
 - [Intstgram](https://www.instagram.com/angellito10/) ;
 
 - [Youtube](https://www.youtube.com/channel/UCG6JMJinTxjifVd0bX6esDQ) ;
+
 
 ### Goal:
 
