@@ -4,7 +4,7 @@
 ### Who am I {❍_❍}
 
 
-Junior ***Network security engineer***, specializes in ***blue teaming*** and ***cybersecurity*** with additional experience in ***web development, computer forensics, vulnerability assessment***. also well-versed in security tools, technologies, and best practices.
+ ***Network security engineer***, specializes in ***blue teaming*** and ***cybersecurity*** with additional experience in ***web development,DevSecOps, computer forensics, vulnerability assessment***. also well-versed in security tools, technologies, and best practices.
 
 You can find more details on [my website](https://muathnasr.net/).
 
