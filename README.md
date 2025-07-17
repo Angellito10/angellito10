@@ -1,7 +1,7 @@
 ![alt text](https://i.ibb.co/12MkVJT/gitHub1.png)
 
 
-# 👋 Hi, I’m Muaadh Nasr
+# 👋 Hi, I’m Muath Nasr
 
 **Cybersecurity & Network Engineer | DevSecOps Leader | Blue Team Specialist**
 
@@ -28,7 +28,6 @@ As a lifelong learner, I'm currently pursuing my MSc in AI & Cybersecurity to ta
 #### **ARP-Guard**
 - **What:** A real-time ARP cache-poisoning detection and prevention tool built with Python and Scapy.
 - **Impact:** Proven to reduce spoofing incidents by 40% in production network simulations.
-- **Links:** [GitHub Repo](https://github.com/Angellito10/ARP-Guard) • [Published Springer Paper](https://link.springer.com/chapter/10.1007/978-3-031-19818-8_3)
 
 #### **Yao’s Garbled-Circuit Protocol (Python)**
 - **What:** An implementation of an AES-based secure two-party computation for private set intersection.
@@ -38,20 +37,14 @@ As a lifelong learner, I'm currently pursuing my MSc in AI & Cybersecurity to ta
 #### **Vulnerability Scanner (Python)**
 - **What:** A web crawler that automates the discovery of common vulnerabilities like XSS and SQL injection.
 - **Skills Demonstrated:** Web Application Security, Automation, Python.
-- **Link:** [GitHub Repo](https://github.com/Angellito10/Vulnerability-Scanner)
 
 ---
 
 ### 📚 Publications & Talks
 - **Detection and Prevention of ARP Cache Poisoning**, Springer (Nov 2022)
 - **The Effect of Cybersecurity Knowledge on Employees’ Personal Growth**, Health Education & Health Promotion (Feb 2023)
-- **Tech Demos & Previews:** [My YouTube Channel](https://www.youtube.com/channel/UCa6gC22nIh22z7q2y_v-w_g)
 
 ---
 
-### 📫 Let’s Connect
-- **LinkedIn:** [linkedin.com/in/muaadh-al-mwald](https://www.linkedin.com/in/muaadh-al-mwald-b01048187/)
-- **ResearchGate:** [researchgate.net/profile/Muaadh_Nasr](https://www.researchgate.net/profile/Muaadh_Nasr)
-- **Email:** muath.nasr@gmail.com
 
 > "Proactive security by design—one automation at a time."
